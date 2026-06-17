@@ -1,0 +1,14 @@
+
+Esta carpeta ha sido preparada para recibir los logotipos.
+
+Por favor, sube aquí los archivos con los siguientes nombres exactos:
+
+1. logo_blanco.png
+   - Debe ser el logo en color blanco (para usar sobre fondos oscuros o vídeos).
+   
+2. logo_negro.png
+   - Debe ser el logo en color negro u oscuro (para usar sobre fondo blanco al hacer scroll).
+
+La ruta final será:
+/public/images/logo_blanco.png
+/public/images/logo_negro.png

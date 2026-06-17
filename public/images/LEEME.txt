@@ -1,0 +1,6 @@
+Sube aquí los retratos de los fundadores con los siguientes nombres exactos para que aparezcan en la web:
+
+1. ignacio.jpg (Retrato de Ignacio Lahuerta)
+2. jon.jpg (Retrato de Jon)
+
+Asegúrate de que sean archivos .jpg para mantener la compatibilidad con las rutas definidas en el código.

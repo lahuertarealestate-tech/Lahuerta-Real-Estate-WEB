@@ -1,0 +1,7 @@
+Esta carpeta ha sido creada automáticamente.
+
+Por favor, sube tu archivo de video aquí con el siguiente nombre exacto:
+fondocasanovarealestate.mp4
+
+La estructura final debe ser:
+/public/videos/fondocasanovarealestate.mp4
